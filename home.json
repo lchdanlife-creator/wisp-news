@@ -1,0 +1,100 @@
+{
+  "version": 3,
+  "slides": [
+    {
+      "image": "wf-dawn-horizon.jpg",
+      "badge": { "base": "en", "values": {
+        "en": "Welcome", "ko": "환영합니다", "ja": "ようこそ", "zh-Hans": "欢迎", "es": "Bienvenido" } },
+      "title": { "base": "en", "values": {
+        "en": "Your desktop,\nyour way.",
+        "ko": "바탕화면을,\n당신답게.",
+        "ja": "デスクトップを、\nあなたらしく。",
+        "zh-Hans": "你的桌面，\n随你所愿。",
+        "es": "Tu escritorio,\na tu manera." } },
+      "body": { "base": "en", "values": {
+        "en": "Clocks, weather, launchers, and organizers. Add your favorite widgets to the desktop and arrange the colors and layout your way.",
+        "ko": "시계·날씨·런처·정리 위젯까지. 마음에 드는 위젯을 얹고, 색과 배치를 취향대로.",
+        "ja": "時計・天気・ランチャー・整理ウィジェット。好きなウィジェットを置いて、色と配置をお好みに。",
+        "zh-Hans": "时钟、天气、启动器、整理小组件。放上喜欢的小组件，按喜好调整颜色与布局。",
+        "es": "Reloj, clima, lanzadores, organizadores. Coloca lo que te guste y ajusta color y disposición." } },
+      "cta": { "base": "en", "values": {
+        "en": "Browse widgets", "ko": "위젯 둘러보기", "ja": "ウィジェットを見る", "zh-Hans": "浏览小组件", "es": "Ver widgets" } },
+      "action": "all"
+    },
+    {
+      "image": "wf-mono-warm.jpg",
+      "badge": { "base": "en", "values": {
+        "en": "Wallpapers", "ko": "배경화면", "ja": "壁紙", "zh-Hans": "壁纸", "es": "Fondos" } },
+      "title": { "base": "en", "values": {
+        "en": "{0}+ wallpapers,\n4K and ultrawide.",
+        "ko": "배경화면 {0}장 이상,\n4K와 울트라와이드.",
+        "ja": "壁紙{0}点以上、\n4Kとウルトラワイド。",
+        "zh-Hans": "{0}+ 壁纸，\n4K 与带鱼屏。",
+        "es": "Más de {0} fondos,\n4K y ultrapanorámico." } },
+      "body": { "base": "en", "values": {
+        "en": "Wallpapers chosen to complement your widgets, not compete with them — calm skies, soft gradients, and deep night tones.",
+        "ko": "위젯과 싸우지 않는 배경으로 골랐습니다 — 잔잔한 하늘, 조용한 그라데이션, 깊은 밤.",
+        "ja": "ウィジェットと競合しない背景を厳選 — 穏やかな空、静かなグラデーション、深い夜。",
+        "zh-Hans": "精选不与小组件争抢视线的背景 — 静谧天空、柔和渐变、深夜。",
+        "es": "Elegidos para no competir con los widgets: cielos calmos, degradados suaves, noche profunda." } },
+      "cta": { "base": "en", "values": {
+        "en": "See wallpapers", "ko": "배경화면 보기", "ja": "壁紙を見る", "zh-Hans": "查看壁纸", "es": "Ver fondos" } },
+      "action": "wallpaper"
+    },
+    {
+      "image": "wf-nebula-core.jpg",
+      "badge": { "base": "en", "values": {
+        "en": "Make your own", "ko": "직접 만들기", "ja": "自分で作る", "zh-Hans": "自己制作", "es": "Crea el tuyo" } },
+      "title": { "base": "en", "values": {
+        "en": "Build a widget.\nNo code.",
+        "ko": "위젯을 직접.\n코드 없이.",
+        "ja": "ウィジェットを自作。\nコード不要。",
+        "zh-Hans": "自己做小组件。\n无需代码。",
+        "es": "Crea un widget.\nSin código." } },
+      "body": { "base": "en", "values": {
+        "en": "Drag pieces onto a canvas, wire them to the clock or CPU, and it lands on your desktop.",
+        "ko": "캔버스에 요소를 끌어다 놓고 시계·CPU에 연결하면, 그대로 바탕화면에 올라갑니다.",
+        "ja": "キャンバスに要素を置き、時計やCPUに繋ぐだけでデスクトップに載ります。",
+        "zh-Hans": "把元素拖到画布上，连接时钟或 CPU，就能放到桌面。",
+        "es": "Arrastra piezas al lienzo, conéctalas al reloj o la CPU y aparece en tu escritorio." } },
+      "cta": { "base": "en", "values": {
+        "en": "Open the editor", "ko": "만들기 열기", "ja": "エディタを開く", "zh-Hans": "打开编辑器", "es": "Abrir el editor" } },
+      "action": "create"
+    }
+  ],
+  "news": [
+    {
+      "date": "2026-11-19",
+      "kind": "notice",
+      "action": "all",
+      "title": { "base": "en", "values": {
+        "en": "Wisp is here — welcome! Pick a widget and add it to your desktop.",
+        "ko": "Wisp 정식 출시 — 환영해요. 위젯을 골라 바탕화면에 얹어 보세요.",
+        "ja": "Wisp 正式リリース — ようこそ！ウィジェットを選んでデスクトップに置いてみましょう。",
+        "zh-Hans": "Wisp 正式发布 — 欢迎！挑一个小组件，放到桌面上试试吧。",
+        "es": "Wisp ya está disponible — ¡Bienvenido! Elige un widget y colócalo en tu escritorio." } }
+    },
+    {
+      "date": "2026-11-19",
+      "kind": "update",
+      "action": "presets",
+      "title": { "base": "en", "values": {
+        "en": "One preset changes your whole desktop — landscapes, characters, and more.",
+        "ko": "프리셋 하나로 바탕화면을 통째로 — 풍경, 캐릭터 등 다양하게.",
+        "ja": "プリセットひとつでデスクトップを丸ごと — 風景、キャラクターなど多彩に。",
+        "zh-Hans": "一个预设，整个桌面焕然一新 — 风景、角色等多种风格。",
+        "es": "Un preajuste cambia todo tu escritorio: paisajes, personajes y más." } }
+    },
+    {
+      "date": "2026-11-19",
+      "kind": "update",
+      "action": "workshop",
+      "title": { "base": "en", "values": {
+        "en": "Steam Workshop: share your widgets and presets, and browse what others made.",
+        "ko": "Steam 창작마당: 내 위젯과 프리셋을 올리고, 다른 사람이 만든 것을 둘러보세요.",
+        "ja": "Steamワークショップ：ウィジェットやプリセットを共有し、ほかの人の作品を見てみましょう。",
+        "zh-Hans": "Steam 创意工坊：分享你的小组件和预设，浏览他人的作品。",
+        "es": "Steam Workshop: comparte tus widgets y preajustes, y explora lo que crean otros." } }
+    }
+  ]
+}
